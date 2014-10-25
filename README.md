@@ -12,3 +12,5 @@ Hello I have changed the file
 Fix the issue 121
 
 FIXED ISSUE # 125
+
+SOCIAL issue is FIXED #888
